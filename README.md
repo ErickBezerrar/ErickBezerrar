@@ -1,4 +1,7 @@
 ### Hi there, i`m erick! 👋
+<li>Actualy learning Python, C , HTML, CSS and Javascript ⌨</li>
+<li>Now i´m graduating in Information Systems(IS) 🌎💻</li>
+<li>I feel in love by programation, I love it ❤</li>
 ## My stats:
 <div align="center">
   <a href="https://github.com/ErickBezerrar">
