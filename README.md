@@ -2,6 +2,7 @@
 <li>Actualy learning Python, C , HTML, CSS and Javascript ⌨</li>
 <li>Now i´m graduating in Information Systems(IS) 🌎💻</li>
 <li>I feel in love by programation, I love it ❤</li>
+
 ## My stats:
 <div align="center">
   <a href="https://github.com/ErickBezerrar">
@@ -16,6 +17,7 @@
   <img align="center" alt="Erick-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Erick-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Erick-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+  <img align="center" alt="Erick-Javascript" height="30" width="40" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"
 </div>
 
 
