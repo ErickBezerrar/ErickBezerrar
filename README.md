@@ -1,5 +1,5 @@
 ### Hi there, i`m erick! 👋
-<li>Actualy learning Python, C , HTML, CSS and Javascript ⌨</li>
+<li>Currently learning Python, C , HTML, CSS and Javascript ⌨</li>
 <li>Now i´m graduating in Information Systems(IS) 🌎💻</li>
 <li>I feel in love by programation, I love it ❤</li>
 
