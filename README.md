@@ -3,7 +3,7 @@
 
 
 
-- 🌱 I’m currently learning **HTML, CSS and Javascript**
+- 🌱 I’m currently learning **HTML, CSS and JavaScript**
 
 - 📫 How to reach me **erickbrtrindade@gmail.com** 
 
