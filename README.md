@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Erick</h1>
 <h3 align="center">A passionate developer from Brasil</h3>
 
-<a ><img align="right" src="https://github.com/ErickBezerrar/ErickBezerrar/blob/main/tumblr_of7j83IBkS1vi4eyho1_500.webp" alt="erick bezerra"/></a>
+<a ><img align="right" src="https://github.com/ErickBezerrar/ErickBezerrar/blob/main/tumblr_of7j83IBkS1vi4eyho1_500.webp" alt="erick bezerra" height="500" width="510"/></a>
 
 - 🌱 I’m currently learning **HTML, CSS and JavaScript**
 
