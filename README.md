@@ -1,23 +1,69 @@
-<h1 align="center">Hi 👋, I'm Erick</h1>
-<h3 align="center">A passionate developer from Brasil</h3>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7F3ACE&height=120&section=header"/>
 
-- 🌱 I’m currently learning **HTML, CSS and JavaScript**
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7F3ACE&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+EricK+Bezerra;I'm+19+years+old;I+from+Brasil,+BA;I+study+web+development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-- 📫 How to reach me **erickbrtrindade@gmail.com** 
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=efss7&show_icons=true&count_private=true&hide_border=true&title_color=7F3ACE&icon_color=7F3ACE&text_color=ffff&bg_color=0d1117" alt="Eric Felipe github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=efss7&layout=compact&hide_border=true&title_color=7F3ACE&text_color=ffff&bg_color=0d1117" />
+</div>
 
-- ⚡ Fun fact **I like to play guitar, church and play games**
+![Contribution](https://activity-graph.herokuapp.com/graph?username=efss7&color=7F3ACE&line=ffff&point=7F3ACE&title_color=7F3ACE&area_color=7F3ACE&hide_border=true&area=true&bg_color=0d1117)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/erick bezerra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="erick bezerra" height="30" width="40" /></a>
-<a href="https://instagram.com/erick_bzrs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="erick_bzrs" height="30" width="40" /></a>
-<a href="https://discord.gg/gruisfrig#0133" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="gruisfrig#0133" height="30" width="40" /></a>
-</p>
+  
+<section>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+## Technologies: ⬇️
 
-<h3 align="left">Stats and engagement:</h3>
-<div I'm graduating at Systems Information from UFRN in Brasil. From zero of knowledge, I studied to improve and I'm improving day a day. Nowadays I know things about programming. I like to learn different programming languages and work at team with other pacient people.</div>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=erickbezerrar&show_icons=true&locale=en" alt="erickbezerrar" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=erickbezerrar&show_icons=true&locale=en&layout=compact" alt="erickbezerrar" /></p>
+<div>
+<h3>Back-end:</h3>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="52" alt="typescript logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="52" alt="nodejs logo"  />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg" height="40" width="52" alt="nestjs logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="52" alt="mysql logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" width="52" alt="postgresql logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" width="52" alt="mongodb logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" width="52" alt="vscode logo"  />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" height="40" width="52" alt="jest logo"  />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg" height="40" width="52" alt="heroku logo"  />
+  </div>
+  <div>
+  <h3>Front-end:</h3>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="40" width="52" alt="vscode logo"  />
+  </div>
+  <div>
+  <h3>Others:</h3>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-original.svg" height="40" width="52" alt="eslint logo />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" width="52" alt="github logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" width="52" alt="docker logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="52" alt="vscode logo"  />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" height="40" width="52" alt="linux logo"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" height="40" width="52" alt="windows logo"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" height="40" width="52" alt="markdown logo"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" height="40" width="52" alt="npm logo"/>
+  </div>
+</section>
+
+#
+
+<div align="center">
+<h3>Contact-me:</h3>
+<a href="mailto:ericfelipess07@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-7F3ACE?style=for-the-badge&logo=gmail&logoColor=white"</a>
+<a href="https://www.linkedin.com/in/eric-ssilva" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-7F3ACE?style=for-the-badge&logo=linkedin&logoColor=white"</a>
+<a href="https://contate.me/EricFelipeWD" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-7F3ACE?style=for-the-badge&logo=whatsapp&logoColor=white"</a>
+</div>
+
+#
+
+<div align="center">
+  <h3>Visitors Count:</h3>  
+  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{efss7}/count.svg" /></p> 
+</div>
+
+ 
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7F3ACE&height=120&section=footer"/>
