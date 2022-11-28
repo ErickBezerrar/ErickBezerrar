@@ -13,7 +13,7 @@
   
 <section>
 
-## Technologies: ⬇️
+## Learning all this Technologies: ⬇️
 
 <div>
 <h3>Back-end:</h3>
