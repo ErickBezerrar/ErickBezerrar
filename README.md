@@ -2,6 +2,7 @@
 
 - 🎓 Cursando Sistemas de Informação.
 - 🎂 Tenho 20 anos de idade.
+- 👋 Portuguese & English
 
 ### Linguagens e Ferramentas:
 
