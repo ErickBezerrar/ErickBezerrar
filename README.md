@@ -1,30 +1,23 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7F3ACE&height=120&section=header"/>
+## Olá, eu sou o Erick Bezerra! 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7F3ACE&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Erick+Bezerra;I'm+19+years+old;I+from+Brasil,+RN;I+study+web+development;Be+Welcome!:%29)](https://git.io/typing-svg)
+- 🎓 Cursando Sistemas de Informação.
+- 🎂 Tenho 20 anos de idade.
 
-<div align="center">
-  <a href="https://github.com/ErickBezerrar">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ErickBezerrar&show_icons=true&count_private=true&hide_border=true&title_color=7F3ACE&icon_color=7F3ACE&text_color=ffff&bg_color=0d1117" alt="Erick Bezerra github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErickBezerrar&layout=compact&hide_border=true&title_color=7F3ACE&text_color=ffff&bg_color=0d1117" />
+### Linguagens e Ferramentas:
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Next.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
+  <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
 </div>
 
-  
-<section>
+### Estatísticas do Perfil:
 
-
-<div align="center">
-<h3>Contact-me:</h3>
-<a href="erickbrtrindade@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-7F3ACE?style=for-the-badge&logo=gmail&logoColor=white"</a>
-<a href="https://www.linkedin.com/in/erick-bezerra-86aa94239/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-7F3ACE?style=for-the-badge&logo=linkedin&logoColor=white"</a>
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ErickBezerrar&show_icons=true&count_private=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErickBezerrar&layout=compact&theme=radical" />
 </div>
-
-#
-
-<div align="center">
-  <h3>Visitors Count:</h3>  
-  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{ErickBezerrar}/count.svg" /></p> 
-</div>
-
- 
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7F3ACE&height=120&section=footer"/>
